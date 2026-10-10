@@ -4,7 +4,7 @@ A small neural network that understands what prospective students are asking (ad
 
 No API, no big language model: just a few hundred example sentences, a bag-of-words, and a 3-layer network built with TensorFlow/Keras.
 
-> Final-year project notebook (`lovablePFE.ipynb`), designed to run on Google Colab.
+> Project built at École Supérieure de Technologie (2023-2024). Notebook: lovablePFE.ipynb, designed to run on Google Colab.
 
 ---
 
